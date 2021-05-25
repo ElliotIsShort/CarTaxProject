@@ -1,0 +1,21 @@
+You are required to design, build, and test a RESTful Web Service through Spring Boot to represent the backend of a road tax management system.
+You may make the key implementation decisions for this system, but should support at least the following entities:
+
+⦁	Car registration
+⦁	Car owner
+⦁	Tax information
+⦁	Tax payments
+
+You may need to consider additional entities to support these and will need to define the relationships between these entities. You should additionally create:
+
+DONE	At least two appropriate Data Transfer Objects.
+DONE	Appropriate documentation (use automated documentation, e.g., OpenAPI).
+DONE	An appropriate security configuration for the system.
+DONE	Automated tests to achieve an appropriate (albeit not necessarily complete) level of coverage.
+⦁	A Dockerfile to deploy the service.
+⦁   Additionally, you should write a report of approximately 1000 words which outlines and describes your design and implementation choices.
+
+
+There are two possible passwords in order to use authentication. Apologies as I can't remember which one. One of these two .
+AUTHENTICATION PASSWORD: "abc123" OR "verysecurepassword"
+I believe the "abc123" is the password used for roles while the "verysecurepassword" is used to log into keycloak
